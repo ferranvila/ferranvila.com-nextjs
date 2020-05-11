@@ -8,9 +8,10 @@ This project contains the source code of [ferranvila.com](https://www.ferranvila
 ## 🛠 Technical Features
 
 - Package Management: [yarn](https://yarnpkg.com/)
-- Commit Messages: [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
-- Framework: [next.js](https://nextjs.org/)
+- JS Framework: [next.js](https://nextjs.org/)
 - Code Formatter: [prettier](https://prettier.io/)
+- Commit Messages: [conventional commits](https://www.conventionalcommits.org)
+- Version and CHANGELOG management: [lerna](https://lerna.js.org/)
 - Continuos Integration: [travis-ci](https://travis-ci.org/)
 
 ## 🖥 Development
