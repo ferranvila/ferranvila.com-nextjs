@@ -11,8 +11,8 @@ This project contains the source code of [ferranvila.com](https://www.ferranvila
 - Package Management: [yarn](https://yarnpkg.com/)
 - JS Framework: [next.js](https://nextjs.org/)
 - Code Formatter: [prettier](https://prettier.io/)
-- Commit Messages: [conventional commits](https://www.conventionalcommits.org)
-- Version and CHANGELOG management: [standard-version](https://github.com/conventional-changelog/standard-version#readme)
+- Conventional Commits: [conventional commits](https://www.conventionalcommits.org)
+- Semantic Release: [semantic release](https://github.com/semantic-release/semantic-release)
 - Continuos Integration: [travis-ci](https://travis-ci.org/)
 
 ## 🖥 Development

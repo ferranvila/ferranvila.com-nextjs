@@ -1,10 +1,10 @@
 {
   "name": "@ferranvila/nextjs",
-  "version": "0.3.0",
+  "version": "0.0.0-development",
   "description": "Personal Blog Portal",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ferranvila/ferranvila.com-nextjs"
+    "url": "https://github.com/ferranvila/ferranvila.com-nextjs"
   },
   "keywords": [
     "nextjs"
@@ -19,7 +19,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "release": "standard-version"
+    "semantic-release": "semantic-release"
   },
   "husky": {
     "hooks": {
@@ -31,6 +31,8 @@
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "@fullhuman/postcss-purgecss": "^2.2.0",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
     "date-fns": "^2.13.0",
     "gray-matter": "^4.0.2",
     "husky": "^4.2.5",
@@ -43,7 +45,7 @@
     "remark": "^12.0.0",
     "remark-html": "^11.0.1",
     "sass": "^1.26.5",
-    "standard-version": "^8.0.0",
+    "semantic-release": "^17.0.7",
     "tailwindcss": "^1.4.6"
   }
 }
