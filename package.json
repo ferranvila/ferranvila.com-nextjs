@@ -1,6 +1,6 @@
 {
   "name": "@ferranvila/nextjs",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Personal Blog Portal",
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "publish": "lerna publish --yes"
+    "release": "standard-version"
   },
   "husky": {
     "hooks": {
@@ -34,7 +34,6 @@
     "date-fns": "^2.13.0",
     "gray-matter": "^4.0.2",
     "husky": "^4.2.5",
-    "lerna": "^3.20.2",
     "next": "9.3.5",
     "postcss-preset-env": "^6.7.0",
     "prettier": "2.0.5",
@@ -44,6 +43,7 @@
     "remark": "^12.0.0",
     "remark-html": "^11.0.1",
     "sass": "^1.26.5",
+    "standard-version": "^8.0.0",
     "tailwindcss": "^1.4.6"
   }
 }

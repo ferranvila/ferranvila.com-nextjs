@@ -3,7 +3,6 @@
 [![Build Status](https://travis-ci.com/ferranvila/ferranvila.com-nextjs.svg?branch=master)](https://travis-ci.com/ferranvila/ferranvila.com-nextjs)
 [![NPM version](https://img.shields.io/npm/v/@ferranvila/nextjs.svg)](https://www.npmjs.org/package/@ferranvila/nextjs)
 ![NPM](https://img.shields.io/npm/l/@ferranvila/nextjs)
-[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
 This project contains the source code of [ferranvila.com](https://www.ferranvila.com/). This project is created with [next.js](https://nextjs.org/).
 
@@ -13,7 +12,7 @@ This project contains the source code of [ferranvila.com](https://www.ferranvila
 - JS Framework: [next.js](https://nextjs.org/)
 - Code Formatter: [prettier](https://prettier.io/)
 - Commit Messages: [conventional commits](https://www.conventionalcommits.org)
-- Version and CHANGELOG management: [lerna](https://lerna.js.org/)
+- Version and CHANGELOG management: [standard-version](https://github.com/conventional-changelog/standard-version#readme)
 - Continuos Integration: [travis-ci](https://travis-ci.org/)
 
 ## 🖥 Development
