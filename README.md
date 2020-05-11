@@ -1,5 +1,6 @@
 # ferranvila.com
 
+[![Build Status](https://travis-ci.com/ferranvila/ferranvila.com-nextjs.svg?branch=master)](https://travis-ci.com/ferranvila/ferranvila.com-nextjs)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
 This project contains the source code of [ferranvila.com](https://www.ferranvila.com/). This project is created with [next.js](https://nextjs.org/).
@@ -22,9 +23,9 @@ yarn build
 
 ## 📄 TODO
 
-- Badges Information (build, coveralls, lighthouse)
-- Unit Testing and Coverage Integration (coveralls)
 - Publish and Deployment (npmjs and vercel)
+- Badges Information (coveralls, codequality lighthouse, dependencies, license)
+- Unit Testing and Coverage Integration (coveralls)
 - Headless CMS
 - Progressive Web Applications
 - Server Side Rendering: [SSR - getServerSideProps](https://nextjs.org/docs/basic-features/data-fetching#getserversideprops-server-side-rendering)
