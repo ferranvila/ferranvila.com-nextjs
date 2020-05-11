@@ -7,7 +7,7 @@ This project contains the source code of [ferranvila.com](https://www.ferranvila
 
 ## 🛠 Technical Features
 
-- Package Management: [yarn][https://yarnpkg.com/]
+- Package Management: [yarn](https://yarnpkg.com/)
 - Commit Messages: [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - Framework: [next.js](https://nextjs.org/)
 - Code Formatter: [prettier](https://prettier.io/)
@@ -27,6 +27,7 @@ yarn build
 - Badges Information (coveralls, codequality lighthouse, dependencies, license)
 - Unit Testing and Coverage Integration (coveralls)
 - Headless CMS
+- Improve README description
 - Progressive Web Applications
 - Server Side Rendering: [SSR - getServerSideProps](https://nextjs.org/docs/basic-features/data-fetching#getserversideprops-server-side-rendering)
 - Stale While Revalidate: [SWR - stale-while-revalidate](https://swr.now.sh/)
