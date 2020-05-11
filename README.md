@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/ferranvila/ferranvila.com-nextjs.svg?branch=master)](https://travis-ci.com/ferranvila/ferranvila.com-nextjs)
 [![NPM version](https://img.shields.io/npm/v/@ferranvila/nextjs.svg)](https://www.npmjs.org/package/@ferranvila/nextjs)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1b7c798a45584239be26f83154ba0977)](https://www.codacy.com/manual/fnva/ferranvila.com-nextjs?utm_source=github.com&utm_medium=referral&utm_content=ferranvila/ferranvila.com-nextjs&utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/480a1d81399945f4ab3fa09bc0cec224)](https://www.codacy.com/manual/fnva/ferranvila.com-nextjs?utm_source=github.com&utm_medium=referral&utm_content=ferranvila/ferranvila.com-nextjs&utm_campaign=Badge_Grade)
 [![Inline docs](http://inch-ci.org/github/ferranvila/ferranvila.com-nextjs.svg?branch=master&style=shields)](http://inch-ci.org/github/ferranvila/ferranvila.com-nextjs)
 ![NPM](https://img.shields.io/npm/l/@ferranvila/nextjs)
 
